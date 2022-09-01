@@ -1,1 +1,3 @@
-object
+package main
+
+function() {}
